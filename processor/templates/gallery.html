@@ -1,0 +1,16 @@
+<!-- processor/templates/gallery.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Processed Images</title>
+</head>
+<body>
+    <h1>Processed Ultrasound Images</h1>
+    {% for image in images %}
+        <div>
+            <img src="/media/processed/{{ image }}" alt="{{ image }}" style="max-width: 100%;">
+            <p>{{ image }}</p>
+        </div>
+    {% endfor %}
+</body>
+</html>

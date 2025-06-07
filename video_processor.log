@@ -1,0 +1,100 @@
+2025-06-04 20:03:40,685 - INFO - Starting video monitoring service
+2025-06-04 20:03:40,685 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 20:03:40,712 - INFO - Discovered new video: 2023-10-22 08_23_01_.mp4
+2025-06-04 20:03:40,712 - INFO - Processing video: 2023-10-22 08_23_01_.mp4
+2025-06-04 20:03:41,048 - ERROR - Failed to process 2023-10-22 08_23_01_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-10-22 08_23_01_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-10-22 08_23_01_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:41,058 - INFO - Discovered new video: 2023-10-23 08_28_05_.mp4
+2025-06-04 20:03:41,059 - INFO - Processing video: 2023-10-23 08_28_05_.mp4
+2025-06-04 20:03:41,356 - ERROR - Failed to process 2023-10-23 08_28_05_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-10-23 08_28_05_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-10-23 08_28_05_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:41,369 - INFO - Discovered new video: 2023-10-24 00_04_04_ 3.mp4
+2025-06-04 20:03:41,371 - INFO - Processing video: 2023-10-24 00_04_04_ 3.mp4
+2025-06-04 20:03:41,667 - ERROR - Failed to process 2023-10-24 00_04_04_ 3.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-10-24 00_04_04_ 3.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-10-24 00_04_04_ 3/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:41,683 - INFO - Discovered new video: 2023-11-07 07_55_42_MORENO LUDWIG.mp4
+2025-06-04 20:03:41,685 - INFO - Processing video: 2023-11-07 07_55_42_MORENO LUDWIG.mp4
+2025-06-04 20:03:41,985 - ERROR - Failed to process 2023-11-07 07_55_42_MORENO LUDWIG.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-07 07_55_42_MORENO LUDWIG.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-07 07_55_42_MORENO LUDWIG/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:41,999 - INFO - Discovered new video: 2023-11-08 17_18_00_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,001 - INFO - Processing video: 2023-11-08 17_18_00_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,300 - ERROR - Failed to process 2023-11-08 17_18_00_HERNANDEZ MARIELVIS.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-08 17_18_00_HERNANDEZ MARIELVIS.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-08 17_18_00_HERNANDEZ MARIELVIS/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:42,314 - INFO - Discovered new video: 2023-11-08 17_18_38_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,315 - INFO - Processing video: 2023-11-08 17_18_38_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,611 - ERROR - Failed to process 2023-11-08 17_18_38_HERNANDEZ MARIELVIS.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-08 17_18_38_HERNANDEZ MARIELVIS.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-08 17_18_38_HERNANDEZ MARIELVIS/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:42,625 - INFO - Discovered new video: 2023-11-08 17_19_36_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,626 - INFO - Processing video: 2023-11-08 17_19_36_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,928 - ERROR - Failed to process 2023-11-08 17_19_36_HERNANDEZ MARIELVIS.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-08 17_19_36_HERNANDEZ MARIELVIS.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-08 17_19_36_HERNANDEZ MARIELVIS/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:42,942 - INFO - Discovered new video: 2023-11-08 17_20_09_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:42,944 - INFO - Processing video: 2023-11-08 17_20_09_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:43,252 - ERROR - Failed to process 2023-11-08 17_20_09_HERNANDEZ MARIELVIS.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-08 17_20_09_HERNANDEZ MARIELVIS.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-08 17_20_09_HERNANDEZ MARIELVIS/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:43,266 - INFO - Discovered new video: 2023-11-08 17_26_16_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:43,268 - INFO - Processing video: 2023-11-08 17_26_16_HERNANDEZ MARIELVIS.mp4
+2025-06-04 20:03:43,555 - ERROR - Failed to process 2023-11-08 17_26_16_HERNANDEZ MARIELVIS.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2023-11-08 17_26_16_HERNANDEZ MARIELVIS.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2023-11-08 17_26_16_HERNANDEZ MARIELVIS/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:43,569 - INFO - Discovered new video: 2024-11-22 15_33_34_.mp4
+2025-06-04 20:03:43,571 - INFO - Processing video: 2024-11-22 15_33_34_.mp4
+2025-06-04 20:03:43,869 - ERROR - Failed to process 2024-11-22 15_33_34_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2024-11-22 15_33_34_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2024-11-22 15_33_34_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:43,883 - INFO - Discovered new video: 2024-11-22 15_33_40_.mp4
+2025-06-04 20:03:43,885 - INFO - Processing video: 2024-11-22 15_33_40_.mp4
+2025-06-04 20:03:44,180 - ERROR - Failed to process 2024-11-22 15_33_40_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2024-11-22 15_33_40_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2024-11-22 15_33_40_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:44,194 - INFO - Discovered new video: 2024-11-22 15_38_03_.mp4
+2025-06-04 20:03:44,196 - INFO - Processing video: 2024-11-22 15_38_03_.mp4
+2025-06-04 20:03:44,496 - ERROR - Failed to process 2024-11-22 15_38_03_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2024-11-22 15_38_03_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2024-11-22 15_38_03_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:44,511 - INFO - Discovered new video: 2024-11-22 15_42_01_.mp4
+2025-06-04 20:03:44,513 - INFO - Processing video: 2024-11-22 15_42_01_.mp4
+2025-06-04 20:03:44,810 - ERROR - Failed to process 2024-11-22 15_42_01_.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2024-11-22 15_42_01_.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2024-11-22 15_42_01_/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:03:44,823 - INFO - Discovered new video: 2025-05-31 19_34_29_MORENO LUDWIG.mp4
+2025-06-04 20:03:44,825 - INFO - Processing video: 2025-05-31 19_34_29_MORENO LUDWIG.mp4
+2025-06-04 20:03:45,123 - ERROR - Failed to process 2025-05-31 19_34_29_MORENO LUDWIG.mp4: Command '['ffmpeg', '-i', '/data/data/com.termux/files/home/dev/snappython/input_videos/2025-05-31 19_34_29_MORENO LUDWIG.mp4', '-vf', 'select=gte(n\\,35)', '-vframes', '15', '-vsync', '0', '/data/data/com.termux/files/home/dev/snappython/temp_frames/2025-05-31 19_34_29_MORENO LUDWIG/frame_%04d.png']' returned non-zero exit status 254.
+2025-06-04 20:13:40,579 - INFO - Monitoring service stopped by user
+2025-06-04 20:17:10,320 - INFO - Starting video monitoring service
+2025-06-04 20:17:10,321 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 20:17:53,995 - INFO - Monitoring service stopped by user
+2025-06-04 20:19:36,643 - INFO - Starting video monitoring service
+2025-06-04 20:19:36,643 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 20:23:47,269 - INFO - Discovered new video: 2025-06-04 16_23_44_L M.mp4
+2025-06-04 20:24:05,971 - INFO - Successfully processed 2025-06-04 16_23_44_L M.mp4
+2025-06-04 20:24:05,978 - ERROR - Failed to process 2025-06-04 16_23_44_L M.mp4: name 'shutil' is not defined
+2025-06-04 20:24:05,978 - ERROR - Error processing 2025-06-04 16_23_44_L M.mp4: name 'shutil' is not defined
+2025-06-04 20:30:11,385 - INFO - Monitoring service stopped by user
+2025-06-04 20:44:44,427 - INFO - Starting video monitoring service
+2025-06-04 20:44:44,427 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 20:45:49,572 - INFO - Discovered new video: 2025-06-04 16_45_47_L M.mp4
+2025-06-04 20:46:07,201 - INFO - Successfully processed 2025-06-04 16_45_47_L M.mp4
+2025-06-04 20:50:06,053 - INFO - Monitoring service stopped by user
+2025-06-04 21:25:17,341 - INFO - Starting video monitoring service
+2025-06-04 21:25:17,341 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 21:26:47,559 - INFO - Discovered new video: 2025-06-04 17_26_46_lm.mp4
+2025-06-04 21:27:03,763 - INFO - Successfully processed 2025-06-04 17_26_46_lm.mp4
+2025-06-04 21:54:12,724 - INFO - Starting video monitoring service
+2025-06-04 21:54:12,725 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 21:55:28,133 - INFO - Discovered new video: 2025-06-04 17_55_27_lm.mp4
+2025-06-04 21:55:44,231 - INFO - Successfully processed 2025-06-04 17_55_27_lm.mp4
+2025-06-04 21:55:44,311 - ERROR - Failed to process 2025-06-04 17_55_27_lm.mp4: [Errno 2] No such file or directory: '/data/data/com.termux/files/home/dev/snappython/temp_frames/2025-06-04 17_55_27_lm/frame_0007.png'
+2025-06-04 21:55:44,312 - ERROR - Error processing 2025-06-04 17_55_27_lm.mp4: [Errno 2] No such file or directory: '/data/data/com.termux/files/home/dev/snappython/temp_frames/2025-06-04 17_55_27_lm/frame_0007.png'
+2025-06-04 22:15:33,072 - INFO - Monitoring service stopped by user
+2025-06-04 22:15:35,586 - INFO - Starting video monitoring service
+2025-06-04 22:15:35,586 - INFO - Watching directory: /data/data/com.termux/files/home/storage/shared/Movies
+2025-06-04 22:16:45,666 - INFO - Discovered new video: 2025-06-04 18_16_42_lm.mp4
+2025-06-04 22:17:04,088 - INFO - Successfully processed 2025-06-04 18_16_42_lm.mp4
+2025-06-04 22:17:04,128 - ERROR - Failed to process 2025-06-04 18_16_42_lm.mp4: [Errno 2] No such file or directory: '/data/data/com.termux/files/home/dev/snappython/temp_output/2025-06-04 18_16_42_lm_enhanced_base.png'
+2025-06-04 22:17:04,129 - ERROR - Error processing 2025-06-04 18_16_42_lm.mp4: [Errno 2] No such file or directory: '/data/data/com.termux/files/home/dev/snappython/temp_output/2025-06-04 18_16_42_lm_enhanced_base.png'
+2025-06-04 22:17:53,454 - INFO - Monitoring service stopped by user
+2025-06-04 22:26:34,825 - INFO - Discovered new video: 2025-06-04 18_26_33_lm.mp4
+2025-06-04 22:26:52,987 - INFO - Successfully processed 2025-06-04 18_26_33_lm.mp4
+2025-06-04 22:30:33,256 - INFO - Discovered new video: 2025-06-04 18_26_35_lm.mp4
+2025-06-04 22:30:40,339 - INFO - Successfully processed 2025-06-04 18_26_35_lm.mp4
+2025-06-04 23:28:39,758 - INFO - Discovered new video: 2025-06-04 19_28_37_lm.mp4
+2025-06-04 23:28:55,054 - INFO - Successfully processed 2025-06-04 19_28_37_lm.mp4
+2025-06-04 23:30:20,159 - INFO - Discovered new video: 2025-06-04 19_30_18_lm.mp4
+2025-06-04 23:30:36,356 - INFO - Successfully processed 2025-06-04 19_30_18_lm.mp4
+2025-06-04 23:34:56,714 - INFO - Discovered new video: 2025-06-04 19_34_54_lm.mp4
+2025-06-04 23:35:11,915 - ERROR - Failed to process 2025-06-04 19_34_54_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-04 23:35:11,915 - ERROR - Error processing 2025-06-04 19_34_54_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-04 23:35:11,929 - INFO - Discovered new video: 2025-06-04 19_35_03_lm.mp4
+2025-06-04 23:35:23,092 - INFO - Successfully processed 2025-06-04 19_35_03_lm.mp4
+2025-06-04 23:36:53,232 - INFO - Discovered new video: 2025-06-04 19_36_49_lm.mp4
+2025-06-04 23:37:09,348 - INFO - Successfully processed 2025-06-04 19_36_49_lm.mp4
+2025-06-05 00:00:06,504 - INFO - Discovered new video: 2025-06-04 20_00_05_lm.mp4
+2025-06-05 00:00:22,367 - ERROR - Failed to process 2025-06-04 20_00_05_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-05 00:00:22,367 - ERROR - Error processing 2025-06-04 20_00_05_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-05 00:04:57,790 - INFO - Discovered new video: 2025-06-04 20_00_06_lm.mp4
+2025-06-05 00:05:04,141 - ERROR - Failed to process 2025-06-04 20_00_06_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-05 00:05:04,141 - ERROR - Error processing 2025-06-04 20_00_06_lm.mp4: 'NoneType' object has no attribute 'mode'
+2025-06-05 00:14:05,077 - ERROR - Monitoring service failed: [Errno 107] Transport endpoint is not connected: '/data/data/com.termux/files/home/storage/shared/Movies'
