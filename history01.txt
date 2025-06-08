@@ -1,0 +1,238 @@
+    1  termux-setup-storage
+    2  dir storage
+    3  dir storage/emulated
+    4  dir storage/media
+    5  dir storage/media-1
+    6  dir storage/media-0
+    7  dir storage
+    8  nano /data/data/com.termux/files/home/.config/code-server/config.yaml
+    9  pkg install tur-repo
+   10  pkg install code-server
+   11  code-server
+   12  dir storage/shared
+   13  dir storage/shared/Android
+   14  dir storage/shared/Android/media
+   15  dir storage/shared/Android/data
+   16  dir storage/shared/Movies
+   17  pip install numpy
+   18  python
+   19  pip install numpy
+   20  MATHLIB
+   21  pip install python-numpy
+   22  pkg install python-numpy
+   23  pkg install opencv-pythoni0
+   24  dir storage/shared
+   25  pkg update
+   26  pkg upgrade
+   27  sshd -p 8023
+   28  pkg install openssh
+   29  sshd -p 8023
+   30  passwd
+   31  code-server
+   32  dir
+   33  cd ..
+   34  pkg install openssh
+   35  cd ..
+   36  dir
+   37  dir downloads
+   38  cd ..
+   39  dir
+   40  cd usr
+   41  dir
+   42  cd ..
+   43  cd home
+   44  cd dev
+   45  pkg install ffmpeg
+   46  mkdir -p management/commands
+   47  touch management/__init__.py
+   48  touch management/commands/__init__.py
+   49  dir
+   50  cd ..
+   51  pip install django pillow numpy
+   52  pkg install python-pillow
+   53  pkg install python-opencv
+   54  pkg install python3-opencv
+   55  pip list
+   56  pip --help
+   57  pkg install opencv
+   58  pkg install libopencv-contrib 
+   59  pkg install tur-repo
+   60  cd /data/data/com.termux/files/home/dev
+   61  django-admin startproject snappython
+   62  cd snappython
+   63  python manage.py startapp processor
+   64  mkdir -p processed_videos processed_images temp_frames
+   65  cd ..
+   66  dir
+   67  rm -r dev
+   68  mkdir dev
+   69  cd dev
+   70  cd /data/data/com.termux/files/home/dev
+   71  django-admin startproject snappython
+   72  cd snappython
+   73  pip install django
+   74  django-admin startproject snappython
+   75  cd snappython
+   76  python manage.py startapp processor
+   77  mkdir -p processed_videos processed_images temp_frames
+   78  # Inside your project directory
+   79  cd snappython/processor
+   80  mkdir -p management/commands
+   81  touch management/__init__.py
+   82  touch management/commands/__init__.py
+   83  python manage.py process_videos
+   84  code-server
+   85  touch management/commands/__init__.py
+   86  python manage.py process_videos
+   87  cdsnappyton
+   88  cd snappyton
+   89  cd snappython
+   90  dir
+   91  python manage.py process_videos
+   92  pip install pydicom
+   93  python manage.py watch_videos
+   94  exit
+   95  code-server
+   96  dir 
+   97  exit
+   98  sshd -p 8023
+   99  code-server
+  100  cd ..
+  101  dir
+  102  cd dev
+  103  cd snappython
+  104  python manage.py watch_videos
+  105  find /data/data/com.termux/files/home -name "*_enhanced*.png" 2>/dev/null
+  106  dir
+  107  cd storage
+  108  dir
+  109  cd shared
+  110  dir
+  111  cd Movies
+  112  dir
+  113  ls -l
+  114  mv 2025-06-04 18_26_33_lm.mp4 2025-06-04 18_26_35_lm.mp4
+  115  mv "2025-06-04 18_26_33_lm.mp4" "2025-06-04 18_26_35_lm.mp4"
+  116  dir
+  117  cd ..
+  118  dir
+  119  cd downloads
+  120  find /data/data/com.termux/files/home -name "**.png" 2>/dev/null
+  121  find /data/data/com.termux/files/ -name "**.png" 2>/dev/null
+  122  sshd -p 8023
+  123  code-server
+  124  cd dev
+  125  cd snappython
+  126  python manage.py watch_videos
+  127  cd ..
+  128  dor
+  129  dir
+  130  mv 20250604193721_9_lm_.jpg dev/snappython/20250604193721_9_lm_.jpg
+  131  cd ..
+  132  cdir
+  133  dir
+  134  cd $HOME
+  135  dir
+  136  cd storage
+  137  dir
+  138  cd shared
+  139  dir
+  140  cd Movies
+  141  dir
+  142  ls -l
+  143  mv '2025-06-04 20_00_05_lm.mp4' '2025-06-04 20_00_06_lm.mp4'
+  144  cd..
+  145  cd ..
+  146  dor
+  147  dir
+  148  cd ..
+  149  dir
+  150  cd storage
+  151  dir
+  152  cd shared
+  153  dir
+  154  cd Pictures
+  155  dir
+  156  cd ..
+  157  cd..
+  158  cd ..
+  159  cd downloads
+  160  dir
+  161  find -name *.png
+  162  find /data/data/com.termux/files/home/storage/shared -name "*_enhanced*.png"
+  163  find /data/data/com.termux/files/home -name "*_enhanced*.png"
+  164  dir
+  165  cd snappython
+  166  dir
+  167  python manage.py process_videos
+  168  python manage.py watch_videos
+  169  python manage.py process_videos
+  170  python manage.py watch_videos
+  171  clear
+  172  python manage.py watch_videos
+  173  python manage.py process_videos
+  174  cd ..
+  175  dir
+  176  cd storage
+  177  dir
+  178  cd shared
+  179  dir
+  180  cd Movies
+  181  dir
+  182  ls -l
+  183  cd ..
+  184  dor
+  185  dir
+  186  cd Pictures
+  187  dir
+  188  pip install opencv-python-headless --no-cache-dir
+  189  pkg install tur-repo
+  190  pkg update
+  191  pkg install opencv
+  192  pkg install python-opencv
+  193  pkg install x11-repo
+  194  pkg update
+  195  pkg install opencv
+  196  exit
+  197  cd snappython
+  198  python manage.py process_videos
+  199  exit
+  200  pkg install root-repo
+  201  pkg install opencv-python
+  202  sshd -p 8023
+  203  code-server
+  204  git init
+  205  pkg install git
+  206  dir
+  207  cd dev
+  208  ssh-keygen -t ed25519 -C "ludwig.moreno@gmail.com"
+  209  cd ..
+  210  dir .ssh
+  211  ssh-add /data/data/com.termux/files/home/.ssh/id_ed25519
+  212  ssh-add ~/.ssh/id_ed25519
+  213  eval "$(ssh-agent -s)"
+  214  ssh-add ~/.ssh/id_ed25519
+  215  ssh -T git@github.com
+  216  dir
+  217  cd dev
+  218  cd snappython
+  219  git push --set-upstream origin main
+  220  git push
+  221  git push --set-upstream origin main
+  222  gh auth login
+  223  git push --set-upstream origin main
+  224  gh auth login
+  225  git push --set-upstream origin main
+  226  git remote -v
+  227  git remote set-url origin https://github.com/Terabuck/snappython.git
+  228  git push --set-upstream origin main
+  229  hon $ git push --set-upstream origin main
+  230  remote: Write access to repository not granted.
+  231  git remote set-url origin https://github.com/Terabuck/snappython.git
+  232  git add .
+  233  git commit -m "Initial commit: Add Django project"
+  234  git push -u origin main
+  235  git add .
+  236  git push -u origin main
+  237  history history01.txt
+  238  history >history01.txt
